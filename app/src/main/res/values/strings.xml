@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DriveToMSU</string>
+    <string name="text_instructions">Welcome to DriveToMSU! This app will help you find your way back to the Red Hawk Nation at any time by giving you directions from your current location to the Red Hawk Parking Garage at Montclair State University with one click. Just click the button below and we will hook you up with directions from Google Maps and get you on your way!</string>
+    <string name="text_header">Start Your Engines!</string>
+    <string name="text_button">Drive to MSU</string>
+    <string name="logo_description">Montclair State University logo</string>
+    <string name="map_missing">UH-OH! You need to install Google Maps for this to work!</string>
+    <string name="map_navigation_url">google.navigation:q=Red+Hawk+Parking+Deck,+Montclair+State+University,+Montclair+NJ+07043</string>
+    <string name="map_package">com.google.android.apps.maps</string>
+</resources>
